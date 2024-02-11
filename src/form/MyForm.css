@@ -1,0 +1,59 @@
+.form-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  .content{
+    color:blue;
+    margin-right:30px;
+  }
+  .form{
+    display: flex;
+  flex-direction: column;
+    align-items:center;
+  }
+  .label {
+    margin: 8px;
+    text-align: left;
+  }
+  
+  .back{
+    margin-right:330px;
+    margin-top:30px;
+    color:#DC582A;
+  }
+
+  .heading {
+    margin-right:190px;
+    font-size: 24px;
+    margin-bottom: 10px;
+  }
+  
+  .button {
+    background-color: #00d400;
+    color: white;
+    padding: 10px;
+    width:120px;
+    font-size: 16px;
+    margin-top: 30px;
+    cursor: pointer;
+    border-radius: 5%;
+    border-color: #00d400;
+  }
+  
+  .input-box {
+    width: 300px;
+    padding: 8px;
+    margin:6px 0;
+    background-color:#f5f5f5;
+  }
+  
+  .issues{
+    margin-top:20px;
+    margin-right:10px;
+  }
+  .phone{
+    text-decoration:none;
+    color:#00d400;
+  }

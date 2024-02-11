@@ -1,0 +1,27 @@
+/* CenteredLocationForm.css */
+
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+  }
+  
+  form {
+    /* Add any additional styling for your form container */
+  }
+  
+  label {
+    /* Add styling for your label if needed */
+  }
+  
+  input {
+    margin-left: 10px;
+    /* Add any additional styling for your input field */
+  }
+  
+  button {
+    margin-left: 10px;
+    /* Add any additional styling for your button */
+  }
+  
